@@ -36,4 +36,4 @@ Next-generation **DAZ 3D Pulse** suite delivering professional-grade 3D modeling
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.
+> This repository is provided for educational and utility purposes only. Use at your own discretion. 
